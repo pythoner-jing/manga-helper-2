@@ -1,0 +1,636 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>电器街上的书店-电器街上的书店漫画-电器街上的书店在线漫画-动漫之家漫画网</title>
+<meta name="keywords" content="电器街上的书店,电器街上的书店漫画,电器街的漫画店,デンキ街の本屋さん,漫画,在线漫画" />
+<meta name='description' content="动漫之家漫画网提供电器街上的书店在线漫画，是国内电器街上的书店漫画最全更新最快的在线漫画站。电器街上的书店漫画介绍：青春的活力的我们，热爱漫画的我们，更加热爱漫画店。" />
+<link rel="stylesheet" type="text/css" href="/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/css/style2011.css?t=20131210" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/nav_float.js?t=201404211525"></script>
+<!--CNZZ广告管家公用文件-->
+<script type='text/javascript' src='http://js.adm.cnzz.net/js/abase.js'></script>
+<script>
+var g_current_id = "7471";
+var g_authors_py ="shuiasato";
+var g_types_py = "gaoxiao";
+var g_comic_name = "电器街上的书店";
+var g_comic_url = "dqjsdsd/";
+var g_comic_id = "7471";
+var g_comic_code = "035753f07c80d9e73183c4a5c7ad009b";
+var g_last_update = "出张版";
+var g_last_chapter_id = "17847";
+</script>
+<link href="../css/share/share_css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../js/cookie.js"></script>
+<script type="text/javascript" src="../js/comic2011.js?tt=20130305"></script>
+<script type="text/javascript" src="../js/pc.js?tt=201201160121"></script> 
+<script type="text/javascript" src="/js/mcheck.js?tt=20130826"></script>
+</head>
+<body>
+
+<div class="toppic_content">
+    <div class="logobox">
+        <div class="logo_mh"><a href="/" title=""></a></div><!--logo_dh-->
+        <div class="navigation_list">
+            <div class="navigation_listbtn">
+                <ul>
+	<li><a href="http://acg.178.com" title="动漫情报" target="_blank">动漫情报</a></li>
+<li><a href="http://donghua.dmzj.com/"  title="动画频道"  target="_blank">动画频道</a></li>
+<li><a href="http://manhua.dmzj.com"class="navigation_on" title="漫画频道">漫画频道</a></li>
+<li><a href="http://xs.dmzj.com/" title="轻小说">轻小说</a></li>
+<li><a href="http://bbs.dmzj.com/" title="动漫之家" target="_blank">动漫之家</a></li>
+<li><a href="http://tu.178.com/" title="萌图库" target="_blank">萌图库</a></li> 				
+                </ul>
+            </div><!--navigation_listbtn--> 
+            <div class="clearfix"></div>       
+            <div class="qqnew"><ul><li>官方综合群：<span class="qqnewtext">77941800</span></li><li>动漫之家总群：<span class="qqnewtext">260284741</span></li></ul></div></div><!--navigation_list-->       
+    </div><!--logobox-->
+    <div class="clearfix"></div>
+    <div class="navbg1">
+        <ul>
+               <li><a href="/" class="navbg1btn_on" id="navbg1btn_ont" title="动漫之家漫画网首页"><span>漫画</span></a></li>
+                <li><a href="http://mh.dmzj.com" title="手机漫画"><span>手机漫画</span></a></li>
+                <li><a href="/update_1.shtml" title="漫画更新"><span>漫画更新</span></a><span class="newbotton"></span></li>
+                <li><a href="/tags/category_search/0-0-0-all-0-0-0-1.shtml#category_nav_anchor" title="全部漫画分类" target="_blank"><span>全部分类</span></a></li>
+                <li><a href="/rank/" title="漫画排行" target="_blank"><span>漫画排行</span></a></li>
+                <!--li><a href="http://acg.178.com/list/93666648665.html" title="漫画盘点" target="_blank"><span>漫画盘点</span></a></li-->
+                <li><a href="/tags/shaonian.shtml" title="少年漫画"><span>少年漫画</span></a></li>
+                <li><a href="/girl/" title="少女漫画"><span>少女漫画</span></a></li>
+                <li><a href="/tags/qingnian.shtml" title="青年漫画"><span>青年漫画</span></a></li>
+                <li><a href="/tags/riben.shtml" title="日本漫画"><span>日漫</span></a></li>
+                <li><a href="/tags/oumei.shtml" title="欧美漫画"><span>美漫</span></a></li>
+                <li><a href="/tags/yiwanjie.shtml" title="完结漫画"><span>完结漫画</span></a></li>
+                <li><a href="/author/index.shtml" title="漫画家资料库" class="on"><span>漫画家</span></a></li> 
+        </ul>  
+    </div><!--navbg1-->
+
+    <div class="search_content">
+        <div class="search_list1">
+            <div class="hotsearch"> 热门漫画：<a href="/weilian/" title="伪恋">伪恋</a><a href="/sthqgmn/" title="山田和七个魔女">山田和七个魔女</a><a href="/djssgui/" title="东京食尸鬼">东京食尸鬼</a><a href="/jhdtlxet/" title="极黑的布伦希尔特">极黑的布伦希尔特</a><a href="/shijizhiling/" title="食戟之灵">食戟之灵</a><a href="/zhiyoushenzhidao/" title="只有神知道的世界">只有神知道的世界</a><a href="/anshajiaoshi/" title="暗杀教室">暗杀教室</a></div>        
+          <div class="search_b_box"><form method="get" target="_blank" action="../tags/search.shtml" onsubmit="if(!this.s.value || this.s.value=='请输入漫画名或作者'){alert('请输入要搜索的内容！');return false;}"  ><span class="search_botton"></span><span><label>全站搜索：</label><input class="search_sr" type="text" value="请输入漫画名或作者" onfocus="if(this.value =='请输入漫画名或作者') this.value = '';" size="19" name="s" /></span>
+          <span><input class="search_input" type="submit" value=""/></span></form></div>  
+      <div class="clearfix"></div>
+        </div><!--search_list1-->
+        <div class="search_list2">
+            <div class="hottest_animation">
+                <ul>
+                    <span>推荐专题：</span>
+                    <li><a href="http://acg.178.com/list/zt/" title="全部精彩专题" style="color:#FD3600">全部专题</a></li>
+                    <li><a href="http://acg.178.com/zt/tongnian_dongman/" title="必看怀旧动漫">必看怀旧动漫</a></li>
+                    <li><a href="http://acg.178.com/zt/zainanmanhua/" title="末日灾难漫画专题">末日灾难漫画</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/loli.html" title="萝莉无限好">萝莉无限好</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/oumeimanhua.html" title="必看美漫推荐专题">必看美漫推荐</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/lindayong.html" title="林达永御姐漫画专题">林达永御姐漫画</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/weiniang.html" title="推倒最萌伪娘">推倒最萌伪娘</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/kongbumanhua.html" title="必看恐怖漫画推荐">必看恐怖漫画</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/nvpu.html" title="萌萌女仆漫画推荐">萌萌女仆漫画</a></li>
+                    <li><a href="http://donghua.dmzj.com/s/imouto.html" title="妹控必看漫画专题">妹控必看漫画</a></li> 
+                </ul>
+            </div>
+        </div><!--search_list2-->
+        <div class="search_list2">
+                <div class="hottest_animation">
+                    <ul>
+                      <span>漫画类型：</span>
+		                <li><a href="/tags/maoxian.shtml" title="冒险漫画">冒险漫画</a></li>
+		                <li><a href="/tags/gaoxiao.shtml" title="搞笑漫画">搞笑漫画</a></li>
+		                <li><a href="/tags/aiqing.shtml" title="爱情漫画">爱情漫画</a></li>
+		                <li><a href="/tags/hougong.shtml" title="后宫漫画">后宫漫画</a></li>
+		                <li><a href="/tags/weiniang.shtml" title="伪娘漫画">伪娘漫画</a></li>
+		                <li><a href="/tags/xingzhuanhuan.shtml" title="性转换漫画">性转换漫画</a></li>
+		                <li><a href="/tags/baihe.shtml" title="百合漫画">百合漫画</a></li>
+		                <li><a href="/tags/gedou.shtml" title="格斗漫画">格斗漫画</a></li>
+		                <li><a href="/tags/kehuan.shtml" title="科幻漫画">科幻漫画</a></li>
+		                <li><a href="/tags/jingji.shtml" title="竞技漫画">竞技漫画</a></li>
+		                <li><a href="/tags/mofa.shtml" title="魔法漫画">魔法漫画</a></li>
+		                <li><a href="/tags/kongbu.shtml" title="恐怖漫画">恐怖漫画</a></li>
+		                <li><a href="/tags/category_search/0-0-0-all-0-0-0-1.shtml#category_nav_anchor" title="全部分类">更多</a></li> 
+                    </ul>
+            </div>
+        
+        </div><!--search_list2-->
+        <div class="search_list3">
+                <div class="initials_style">
+                    <ul>
+                         <span>首字母：</span>
+                        <li><a href="/tags/a.shtml">A</a></li>
+                        <li><a href="/tags/b.shtml">B</a></li>
+                        <li><a href="/tags/c.shtml">C</a></li>
+                        <li><a href="/tags/d.shtml">D</a></li>
+                        <li><a href="/tags/e.shtml">E</a></li>
+                        <li><a href="/tags/f.shtml">F</a></li>
+                        <li><a href="/tags/g.shtml">G</a></li>
+                        <li><a href="/tags/h.shtml">H</a></li>
+                        <li><a href="/tags/i.shtml">I</a></li>
+                        <li><a href="/tags/j.shtml">J</a></li>
+                        <li><a href="/tags/k.shtml">K</a></li>
+                        <li><a href="/tags/l.shtml">L</a></li>
+                        <li><a href="/tags/m.shtml">M</a></li>
+                        <li><a href="/tags/n.shtml">N</a></li>
+                        <li><a href="/tags/o.shtml">O</a></li>
+                        <li><a href="/tags/p.shtml">P</a></li>
+                        <li><a href="/tags/q.shtml">Q</a></li>
+                        <li><a href="/tags/r.shtml">R</a></li>
+                        <li><a href="/tags/s.shtml">S</a></li>
+                        <li><a href="/tags/t.shtml">T</a></li>
+                        <li><a href="/tags/u.shtml">U</a></li>
+                        <li><a href="/tags/v.shtml">V</a></li>
+                        <li><a href="/tags/w.shtml">W</a></li>
+                        <li><a href="/tags/x.shtml">X</a></li>
+                        <li><a href="/tags/y.shtml">Y</a></li>
+                        <li><a href="/tags/z.shtml">Z</a></li>
+                        <li><a href="/tags/0.shtml">0~9</a></li>
+                        <li><a href="http://bbs.dmzj.com/thread-412604-1-1.html" style="border:0;background:#fff">推荐想看的漫画</a></li> 
+                    </ul>
+            </div>
+        
+        </div><!--search_list3-->
+    
+    </div><!--search_content-->
+
+</div><!--toppic_content-->
+
+<div style="width:960px;height:60px;border:none;margin:auto;padding:0px;">
+<!-- 广告位：头部banner-2-->
+<script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=263749'></script>
+</div>
+
+    <div class="wrap">
+       <div class="path_lv3"><span class="icon20"></span><a href="../">在线漫画 </a> &gt;&gt;<a href="../tags/riben.shtml">日本漫画</a> &nbsp;<a href="../tags/d.shtml">首字母D</a> &gt;&gt; 电器街上的书店</div><!--path_lv3-->
+
+         <div class="middleright">
+             <div class="middleright_mr">
+                  <div class="odd_anim_title">
+                       <div class="odd_anim_title_l"></div><!--odd_anim_title_l-->
+                       <div class="odd_anim_title_m">
+                            <span class="anim_title_text"><a href="../dqjsdsd/"><h1>电器街上的书店</h1></a></span>
+                                连载中&nbsp;(&nbsp;最新收录：<a href="/dqjsdsd/17847.shtml"  id="newest_chapter">出张版</a>，总收录7话，179页)
+                             <span class="update"></span>
+                       </div><!--odd_anim_title_me-->
+                       <div class="odd_anim_title_r"></div><!--odd_anim_title_r-->
+                  </div><!--odd_anim_title-->
+                  
+                  <div class="photo_part">
+                       <div class="h2_title2"><span class="msg"><a href="javascript:void(0)"  class="msg1" id='subscribe_btn2'>站内消息订阅</a> [<a href="http://acg.178.com/201008/75089156063.html" target="_blank">说明</a>]</span><a href="../d/dqjsdsd/rss.xml" class="rss" target="_blank">RSS订阅本漫画更新</a> <span class="h2_icon h2_icon22"></span><h2>电器街上的书店 在线漫画全集</h2></div>
+                  </div><!--photo_part-->
+                  <div id='last_read_history' class="cartoon_online_history margin_top_10px" style='display:none;'></div>
+                 <ul class="cartoon_online_button margin_top_10px">
+                 
+                   <li class="b1">第一页</li>
+                 
+                 </ul>
+                  
+                  <div class="cartoon_online_border" >
+                  <ul>
+                    
+                    <li><a title="电器街上的书店-第01话" href="/dqjsdsd/13762.shtml" >第01话</a></li>
+                    
+                    <li><a title="电器街上的书店-第02话" href="/dqjsdsd/15168.shtml" >第02话</a></li>
+                    
+                    <li><a title="电器街上的书店-第03话" href="/dqjsdsd/15682.shtml" >第03话</a></li>
+                    
+                    <li><a title="电器街上的书店-第3.5话" href="/dqjsdsd/15705.shtml" >第3.5话</a></li>
+                    
+                    <li><a title="电器街上的书店-第04话" href="/dqjsdsd/16625.shtml" >第04话</a></li>
+                    
+                    <li><a title="电器街上的书店-第05话" href="/dqjsdsd/16626.shtml" >第05话</a></li>
+                    
+                    <li><a title="电器街上的书店-出张版" href="/dqjsdsd/17847.shtml"  class="color_red">出张版</a></li>
+                    
+                  </ul><div class="clearfix"></div></div>
+                  
+					
+				  
+
+                  <ul style="float:right;height:19px;line-height:19px;margin-top:10px">
+					<li style="float:left;padding-top:2px"><script type="text/javascript">document.write('<iframe  frameborder="0" scrolling="no" frameborder="0" src="http://hits.sinajs.cn/A1/weiboshare.html?url=%url%&appkey=&type=6" width="86" height="16"></iframe>'.replace(/%url%/,encodeURIComponent(location.href)));</script></li>
+<li style="float:left;margin-left:5px">
+<script>
+                                    function posttoWb(){
+											var custome_t = '电器街上的书店' + " 更新到" + ''+g_last_update+"\r\n";
+                                            var _t = encodeURI(custome_t);
+											var _url = encodeURI(window.location);
+                                            var _source = 1000001;
+                                            var _site = encodeURI('http://manhua.178.com/');
+                                            var _pic = '';
+                                            var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&url='+_url+'&source='+_source+'&site='+_site+'&pic='+_pic;
+                                            window.open( _u,'转播到腾讯微博', 'width=700, height=580, top=320, left=180, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+                                        }
+                                    </script>
+                                    <style>
+                                    .tmblog{
+                                        padding-left:22px;
+                                        height:19px;
+                                        display:inline-block;
+                                        line-height:19px;
+                                        background:url(http://v.t.qq.com/share/images/ico.png) no-repeat left center;
+                                    }
+                                    </style>
+                                    <a href="javascript:void(0)" onClick="posttoWb();" class="tmblog" >转播到腾讯微博</a></li>
+                                    </ul>
+
+				  <div class="icorss_acg">
+					<span class="icorss_acgw">如果您喜欢此漫画，欢迎加入书签：</span>
+					<!-- <img src="http://img.178.com/acg/201005/67215745605/67215762660.gif" /> -->
+					<script src="../js/wangzhai.js"></script>
+				  </div>
+             </div><!--middleright_mr-->
+			 <div class='clearfix'></div>
+			
+             <div class="middleright_mr margin_top_10px">             
+                  <div class="photo_part">
+                       <div class="h2_title2"><span class="h2_icon h2_icon10"></span><h2>电器街上的书店 详细介绍</h2></div>
+                  </div><!--photo_part-->
+                  <div class="line_height_content">
+                  电器街上的书店漫画 ，青春的活力的我们，热爱漫画的我们，更加热爱漫画店。<br/>欢迎在动漫之家漫画网观看电器街上的书店漫画
+                  </div>
+             </div><!--middleright_mr-->
+             
+		<!-- 广告位：单页评论上方-->
+		<script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=263753'></script>
+
+<!--comment-->
+	<div class="middleright_mr margin_top_10px">
+		<DIV class="online_anim_debate">
+			<DIV class="online_anim_debate">
+			<div class="photo_part"><div class="h2_title2">
+			<SPAN class="h2_icon h2_icon12"></SPAN><h2>电器街上的书店 漫画评论</h2> 
+			</div></div>
+			<script>var resource_comment = {token : 'JJBFlg',token32:'810befdd5189db555b0bbba539e83a6f',order:'time',comment_order:'desc',agent_url:'http://' + document.domain + '/agent.html'}</script><script src="http://t.178.com/script/widget/resource_comment.js"></script>
+		</DIV>
+		</DIV>
+	</div>	 
+
+
+             <div class="middleright_mr  margin_top_10px">
+             <div class="impunity">
+                  本页电器街上的书店漫画内容均来自互联网，动漫之家漫画网与内容的出处无关，如有违反您的权益，或您发现有任何不良内容或图片错误，【<a href="http://i.178.com/~sms.index.view_send_form/reciever/%E9%95%B7%E7%80%AC%E6%B9%8A/uid/2600003" target="_blank">请与我们联系</a>】，我们将修正该漫画图片</div>
+                 
+             </div><!--middleright_mr-->
+         </div><!--middleright-->
+          <div class="left" style='overflow:hidden;'>
+              <div class="left_mr">
+                   <div class="anim_intro">
+                        <div class="intro_top"></div><!--intro_top-->
+                        <div class="week_mend">
+                            <div class="week_mend_back">
+         
+                                <!--newcyuf201015--> 
+                                 <div class="anim_intro_ptext"> 
+                                 <a href="../dqjsdsd/"><img alt="电器街上的书店" src="http://imgfast.dmzj.com/webpic/19/dqjsdsd.jpg" id="cover_pic"/></a> 
+                                 </div><!-- anim_intro_ptext--> 
+                                <!--newcyuf--> 
+ 
+                                 <div class="part_collection">
+                                      <input class="part_collection_bnt" id="addFav" type="button" value="加入收藏"/>
+                                      <input class="part_collection_bnt" id="sendCopy" type="button" value="发给好友"/>
+                                 </div><!--anim_collection-->
+								 <div class="part_collection">
+								 <input class="part_collection_bnt3" id="subscribe_btn" type="button" value="站内消息订阅"/>
+								 </div>
+                                 <div class="anim-main_list">
+                                      <table>
+                                          <tr {m_comic_alias_display}>
+                                             <th>别名：</th>
+                                             <td>电器街的漫画店</td>
+                                          </tr>
+                                          <tr {m_comic_real_display}>
+                                             <th>原名：</th>
+                                             <td>デンキ街の本屋さん</td>
+                                          </tr>
+                                          <tr>
+                                             <th>作者：</th>
+                                             <td><a href='../tags/shuiasato.shtml'>水あさと </a><br/></td>
+                                          </tr>
+                                          <tr>
+                                             <th>地域：</th>
+                                             <td><a href="../tags/riben.shtml" alt="日本">日本</a></td>
+                                          </tr>
+                                          <tr>
+                                             <th>状态：</th>
+                                             <td><a href="../tags/lianzaizhong.shtml" alt="连载中">连载中</a></td>
+                                          </tr>
+                                          <tr>
+                                             <th>人气：</th>
+                                             <td>70383</td>
+                                          </tr>
+                                          <tr>
+                                             <th>题材：</th>
+                                             <td><a href='../tags/gaoxiao.shtml'>搞笑</a>&nbsp;</td>
+                                          </tr>
+										  <tr><th>分类：</th><td><a title='少年漫画' href='../tags/shaonian.shtml'>少年漫画</a></td></tr>
+                                          <tr>
+                                             <th>最新收录：</th>
+                                             <td ><a href="/dqjsdsd/17847.shtml"  id="newest_chapter">出张版</a>&nbsp;<br /><span class="update2">2012-08-07</span></td>
+                                          </tr>
+                                      </table>
+                                      <div class="cartoon_desc">
+									    <div class="anim_data_mnew about-info">
+                                                       <fieldset>
+                                                       <legend><strong>相关动画：</strong> </legend>
+                                                       <div>
+    <ul>												
+													   
+                                                       <li><a href="http://donghua.dmzj.com/donghua_info/7077.html" title="电器街的漫画店" target="_blank"><strong>电器街的漫画店</strong></a><span>未播放</span>           
+                                                       </li>
+													   
+                                                       </ul>
+                                                       </div>
+                                                       </fieldset>
+                                                       
+                                                        
+					        
+ </div>
+									  
+									  </div>
+                                 </div><!--anim-main_list-->
+                                 
+                            </div><!--week_mend_back-->
+                        </div><!--intro_mend-->
+                        <div class="week_foot"></div><!--intro_mend-->
+                   </div><!--anim_intro-->
+					
+					
+                   <div class="anim_grade">
+                       <div class="top10_top">水あさと其它作品</div>
+                       <div class="week_mend">
+                            <div class="week_mend_back " id="author_comics" >
+                                 
+                                 <div class="work_mend_mr_a height_tiantian2">
+                                     <div class="work_left"><a class="linehidden" href="../tiantaisskdh/">天台上盛开的花</a></div>
+                                     <div class="work_left linehidden2">最新：<a href="/tiantaisskdh/25814.shtml">全一话</a></div>
+                                
+                                 </div><!--read_mend_mr_b-->
+                                  
+                                 <div class="work_mend_mr_a height_tiantian2">
+                                     <div class="work_left"><a class="linehidden" href="../zhiyouliangrendejiaoshi/">只有两人的教室</a></div>
+                                     <div class="work_left linehidden2">最新：<a href="/zhiyouliangrendejiaoshi/19025.shtml">全一话</a></div>
+                                
+                                 </div><!--read_mend_mr_b-->
+                                  
+                                 <div class="work_mend_mr_a height_tiantian2">
+                                     <div class="work_left"><a class="linehidden" href="../mnytdmty/">梅娜与她的猫头鹰</a></div>
+                                     <div class="work_left linehidden2">最新：<a href="/mnytdmty/15589.shtml">第07话</a></div>
+                                
+                                 </div><!--read_mend_mr_b-->
+                                  
+                               
+                            </div><!--week_mend_back-->
+                       </div><!--week_mend-->
+                       <div class="week_foot"></div>
+                   </div><!--anim_grade-->
+				   
+
+				   <iframe src="http://acg.178.com/201302/t_155427314630.html" width="218" height="140" frameborder="0" scrolling="no" style="margin-top: 10px;"></iframe>
+                   <div class="anim_grade">
+
+                       <div class="read_top margin_top_10px">同类漫画推荐</div>
+                       <div class="week_mend">
+                            <div class="week_mend_back " id="author_comics" >
+                                 
+                                 <div class="work_mend_mr_a height_tiantian2">
+
+				<div class="tcaricature_block" id="type_comics">
+                       
+                            <ul> 
+                             <li><a href="../cxywz/" ><img alt="丑小鸭王子" src="http://imgfast.dmzj.com/webpic/13/cxywz.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../cxywz/">丑小鸭王子</a>[<span class="red1_font12">完</span>]</div> 
+                               <div class="adivhidden">作者:森永爱</div>                                               
+                               <div class="adivhidden">最新:<a href="/cxywz/389.shtml">vol_06</a></div> 
+                             </li> 
+                            </ul>
+                      
+                            <ul> 
+                             <li><a href="../gxfc/" ><img alt="恭喜发财" src="http://imgfast.dmzj.com/webpic/1/cz001_001_2cfe01836717f2a42f2683b54e65ba2a.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../gxfc/">恭喜发财</a>[<span class="red1_font12">完</span>]</div> 
+                               <div class="adivhidden">作者:黄玉郎</div>                                               
+                               <div class="adivhidden">最新:<a href="/gxfc/5954.shtml">CH01</a></div> 
+                             </li> 
+                            </ul>
+                      
+                            <ul> 
+                             <li><a href="../minigeass/" ><img alt="迷你GEASS" src="http://imgfast.dmzj.com/webpic/4/000cover001_017cd5ffa4f187b98fb3ffb45423eb3d.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../minigeass/">迷你GEASS</a>[<span class="red1_font12">完</span>]</div> 
+                               <div class="adivhidden">作者:Asまりあ</div>                                               
+                               <div class="adivhidden">最新:<a href="/minigeass/7066.shtml">VOL01</a></div> 
+                             </li> 
+                            </ul>
+                      
+                            <ul> 
+                             <li><a href="../tengcunjundemingpian/" ><img alt="藤村君和他的伙伴们" src="http://imgfast.dmzj.com/webpic/14/tengcunjunhetadehuobanmen.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../tengcunjundemingpian/">藤村君和他的伙伴们</a>[<span class="red1_font12">完</span>]</div> 
+                               <div class="adivhidden">作者:敷诚一</div>                                               
+                               <div class="adivhidden">最新:<a href="/tengcunjundemingpian/22970.shtml">最终话</a></div> 
+                             </li> 
+                            </ul>
+                      
+                            <ul> 
+                             <li><a href="../cnljbd/" ><img alt="超能力警备队" src="http://imgfast.dmzj.com/webpic/9/5_f02e4bf60e29fb4e89e649870adc71f9.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../cnljbd/">超能力警备队</a>[<span class="red1_font12">完</span>]</div> 
+                               <div class="adivhidden">作者:木村明广</div>                                               
+                               <div class="adivhidden">最新:<a href="/cnljbd/10873.shtml">VOL2</a></div> 
+                             </li> 
+                            </ul>
+                      
+                            <ul> 
+                             <li><a href="../zhuimingdabaihuodian/" ><img alt="椎名大百货店" src="http://imgfast.dmzj.com/webpic/19/000_99e555a81626d124821122cb8d52c83c.jpg" /></a></li> 
+                             <li> 
+                              <div class="adiv"><a href="../zhuimingdabaihuodian/">椎名大百货店</a></div> 
+                               <div class="adivhidden">作者:椎名高志</div>                                               
+                               <div class="adivhidden">最新:<a href="/zhuimingdabaihuodian/12740.shtml">VOL01</a></div> 
+                             </li> 
+                            </ul>
+                      							
+						<div class='clearfix'></div>
+                  </div>                                
+                                 </div><!--read_mend_mr_b-->
+
+                                  
+                               
+                            </div><!--week_mend_back-->
+                       </div><!--week_mend-->
+                       <div class="week_foot"></div>
+                   </div><!--anim_grade-->
+				   
+				   
+              </div><!--left_mr-->
+         </div><!--left-->
+	<div class="clearfix"></div>
+
+    </div><!--wrap-->
+<div class="clearfix"></div>
+
+<!--transit -div -->
+<div class="mask_panel" id="transit_div" style="display: block;display:none ">
+     <div class="pop_grade" >
+	     <div class="pop_bbsadmin" id="internal_div" style="display:none">
+	     <div class="pop_bbsadmin_top">提示信息</div>
+		 <div class="pop_bbsadmin_mend">
+		      <div class="pop_bbsadmin_mend_back">
+			      <div class="pop_bbsadmin_choice2">
+				       <strong class="pop_grade_clew-icon"></strong>您已经成功的关注了<label title="电器街上的书店" id="label_comic_name" style="color:red"></label>
+					   <br/>
+					   如果该漫画更新，系统将立即通知您。
+					   <br/>
+				  </div><!--pop_bbsadmin_choice-->
+				  <div style="text-align:center"><input type="button" value="确定" style="margin-right:20px;" id="ok_btn" class="part_collection_bnt"/> <a href="http://i.178.com/~subscribe.index.index/type/1"  target="_blank">管理我的订阅</a>	</div>
+				   		      
+			  </div><!--pop_bbsadmin_mend_back-->
+		 </div><!--pop_grade_mend-->
+		 <div class="pop_bbsadmin_foot"></div>
+	 </div>
+	 </div><!--pop_grade-->
+	 <div class="pop_grade" id="subWarn_div" style="display:none">
+	     <div class="pop_bbsadmin">
+	     <div class="pop_bbsadmin_top">提示信息</div>
+		 <div class="pop_bbsadmin_mend">
+		      <div class="pop_bbsadmin_mend_back">
+			      <div class="pop_bbsadmin_choice2">
+				       <strong class="pop_grade_clew-icon"></strong>您已订阅该漫画 &nbsp;<a href="http://i.178.com/~subscribe.index.index/type/1"  target="_blank">管理我的订阅</a>				      
+				  </div><!--pop_bbsadmin_choice-->
+				  <div style="text-align:center"><input type="button" value="确定" class="part_collection_bnt" id="ok2_btn" /></div>
+			      
+			  </div><!--pop_bbsadmin_mend_back-->
+		 </div><!--pop_grade_mend-->
+		 <div class="pop_bbsadmin_foot"></div>
+	 </div>
+	 </div><!--pop_grade-->
+	 <div class="pop_grade" id="subNumWarn_div" style="display:none">
+	     <div class="pop_bbsadmin">
+	     <div class="pop_bbsadmin_top">提示信息</div>
+		 <div class="pop_bbsadmin_mend">
+		      <div class="pop_bbsadmin_mend_back">
+			      <div class="pop_bbsadmin_choice2">
+				       <strong class="pop_grade_clew-icon"></strong>您的订阅数量过多 &nbsp;<a href="http://i.178.com/~subscribe.index.index/type/1"  target="_blank">管理我的订阅</a>				      
+				  </div><!--pop_bbsadmin_choice-->
+				  <div style="text-align:center"><input type="button" value="确定" class="part_collection_bnt" id="subNumWarn_btn" /></div>
+			  
+			  </div><!--pop_bbsadmin_mend_back-->
+		 </div><!--pop_grade_mend-->
+		 <div class="pop_bbsadmin_foot"></div>
+	 </div>
+	 </div><!--pop_grade-->
+	 <div class="pop_grade" id="login_div" style="display:none">
+	     <div class="pop_bbsadmin">
+	     <div class="pop_bbsadmin_top">提示</div>
+		 <div class="pop_bbsadmin_mend">
+		      <div class="pop_bbsadmin_mend_back">
+			      <div class="pop_bbsadmin_choice2">
+					<strong class="pop_grade_clew-icon"></strong>您还没有登录，请登录后订阅！
+				  </div><!--pop_bbsadmin_choice-->
+				  <div style="text-align:center">
+					<input type="button" value="确定" name="register_btn" id="close_btn" class="part_collection_bnt">
+				</div>			      
+			  </div><!--pop_bbsadmin_mend_back-->
+		 </div><!--pop_grade_mend-->
+		 <div class="pop_bbsadmin_foot"></div>
+	 </div>
+	 </div><!--pop_grade-->
+</div><!--panel end-->
+<!--transit div end-->
+<div class="footer">
+<!-- 百度分享代码begin -->
+<style type="text/css">
+	.sharebox { width:62px; margin:0; overflow:hidden; text-align:center; background:url(http://cimg.178.com/acg/s/bdshare/share-cy-bg.gif);position: absolute;top:400px;left:50%;margin-left:500px;}
+	.sharebox .gotop { color:#003366; background:url(http://cimg.178.com/acg/s/bdshare/share-cy-top.gif) 0 0 no-repeat; height:70px; padding:4px 0 0;}
+	.sharebox .gotop a{display:block; width:60px;height:47px;text-decoration:none}
+	#bdshare { margin:0; padding:0 11px 6px !important;}
+</style>
+<div class="sharebox" id="fixbdshare">
+	<div class="gotop"><a href="#top" target="_self">　</a></div>
+    <!-- Baidu Button BEGIN -->
+    <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+    <a class="bds_tsina"></a>
+    <a class="bds_tqq"></a>
+    <a class="bds_qzone"></a>
+    <a class="bds_renren"></a>
+    <span class="bds_more"></span>
+    </div>
+<div style=" width:62px; height:7px; background:url(http://cimg.178.com/acg/s/bdshare/share-cy-foot.gif);float:left;overflow:hidden;"></div>
+    <script type="text/javascript" id="bdshare_js" data="type=tools&uid=6491179" ></script>
+    <script type="text/javascript" id="bdshell_js"></script>
+    <script type="text/javascript">
+var bds_config = {'snsKey':{'tsina':'3938048249','tqq':'8b5c8745ea364613adfda05c616d9abe'}};
+    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+    </script>
+    <!-- Baidu Button END -->
+	<script type="text/javascript">
+		// 滚动
+		(function(){
+			var box = document.getElementById('fixbdshare');
+			var default_offsetTop = box.offsetTop;
+
+			var default_style_exp = 'position:'+box.style.position+';top:'+box.style.top;
+			var move_top = 100;
+			var get_scroll_top = null;
+			var change_style = move_style_exp = null;
+			if(window.innerWidth) {
+				get_scroll_top = function() {return window.pageYOffset;}
+				change_style = function(el, exp) {
+					el.setAttribute('style', exp);
+				}
+				move_style_exp = 'position:fixed;top:'+move_top+'px';
+			} else if(document.documentElement && document.documentElement.clientWidth) {
+				get_scroll_top = function() {return document.documentElement.scrollTop;}
+				change_style = function(el, exp) {
+					el.style.cssText = exp;
+				}
+				move_style_exp = 'position:fixed;top:'+move_top+'px;_position:absolute;_top:expression(eval(document.documentElement.scrollTop+'+move_top+'))';
+			} else if(document.body.clientWidth) {
+				get_scroll_top = function() {return document.body.scrollTop;}
+				change_style = function(el, exp) {
+					el.style.cssText = exp;
+				}
+				move_style_exp = 'position:fixed;top:'+move_top+'px;_position:absolute;_top:expression(eval(document.body.scrollTop+'+move_top+'))';
+			} else {
+				return;
+			}
+			var fixed = false;
+			var share_onscroll = function() {
+				var scroll_top = get_scroll_top();
+				if(scroll_top >= default_offsetTop - move_top) {
+					if(!fixed) {
+						change_style(box, move_style_exp);
+						fixed = true;
+					}
+				} else if(box.offsetTop != default_offsetTop) {
+					if(fixed) {
+						change_style(box, default_style_exp);
+						fixed = false;
+					}
+				}
+			}			
+			var binded_onscroll = window.onscroll;
+			if(binded_onscroll) {
+				window.onscroll = function() {
+					share_onscroll();
+					binded_onscroll();
+				}
+			} else {
+				window.onscroll = share_onscroll;
+			}
+		})();
+	</script>
+</div>
+<!-- 百度分享代码end -->
+  <!--
+<script src="http://market.178.com/178acg/1378895153.js"></script>
+<script src="http://market.178.com/178acg/1378895292.js"></script>
+-->
+<!-- 广告位：漫画站对联栏-->
+<script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=263760'></script>
+
+ <div style="display:none;">
+<script src='http://w.cnzz.com/c.php?id=30043528' language='JavaScript' charset='gb2312'></script>
+</div>
+	<div style='display:none;'></div>
+</div>
+</body>
+</html>
