@@ -128,10 +128,13 @@ class PanelMain(wx.Panel):
 
 	def OnLink(self, evt):
 		self.manga = MH.Manga(self.ctrl.GetValue())
-		self.manga.parse()
-		self.chapter_scroll.set_chapter(self.manga.chapter_url)
-		self.checkbox_1.SetValue(False)
-		self.checkbox_2.SetValue(False)
+		if self.manga.parse():
+			self.chapter_scroll.set_chapter(self.manga.chapter_url)
+			self.checkbox_1.SetValue(False)
+			self.checkbox_2.SetValue(False)
+		else:
+			dialog = wx.MessageDialog(self, u"URL格式错误，必须是漫画首页", u"提示", wx.OK | wx.ICON_INFORMATION)
+			dialog.ShowModal()
 
 	def OnDownload(self, evt):
 		selection = self.chapter_scroll.get_selected()

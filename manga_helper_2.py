@@ -23,7 +23,7 @@ path_cur = os.path.abspath(".")
 
 js_cxt = PyV8.JSContext()
 		
-#socket.setdefaulttimeout(10)#设置超时10s
+socket.setdefaulttimeout(10)#设置超时10s
 
 #解析卷
 class ParserChapter(SGMLParser):
@@ -186,15 +186,21 @@ class Manga:
 		self.chapter_url = []
 
 	def parse(self):
-		socket = urllib2.urlopen(self.url) 
-		content = socket.read()
-		socket.close()
-		#解析漫画名
-		self.name = Fetch.fetch_name(content)
-		#解析章节
-		chapter_parser = ParserChapter()
-		chapter_parser.feed(content)
-		self.chapter_url = chapter_parser.get_chapter_url()
+		try:
+			socket = urllib2.urlopen(self.url) 
+			content = socket.read()
+			socket.close()
+			#解析漫画名
+			self.name = Fetch.fetch_name(content)
+			#解析章节
+			chapter_parser = ParserChapter()
+			chapter_parser.feed(content)
+			self.chapter_url = chapter_parser.get_chapter_url()
+		except Exception, e:
+			print "Manga.parse", e
+			return False
+
+		return True
 
 class Thread(threading.Thread):
 	def __init__(self, queue, queue2, handler):
